@@ -1,0 +1,43 @@
+.body {
+  margin: 50px 325px 50px 325px;
+  padding-top:50px;
+  padding-bottom:50px;
+  background-color: rgb(235,235,235);
+  border-radius: 5px;
+}
+
+#title {
+  font-size: 60px;
+  color: rgb(40,40,40);
+  text-align: center;
+}
+
+#desc {
+  color: rgb(40,40,40);
+  text-align: center;
+}
+
+.pic {
+  background-color:white;
+  text-align:center;
+  margin-left: 110px;
+  margin-right:110px;
+  border-radius: 5px;
+}
+
+#picdesc {
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.timeline {
+  padding-left:200px;
+  padding-right:200px;
+  padding-top:15px;
+}
+
+.quote {
+  font-family: Serif;
+  padding-top:15px;
+  padding-bottom:15px;
+}
